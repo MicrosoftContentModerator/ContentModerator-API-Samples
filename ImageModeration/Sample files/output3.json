@@ -1,0 +1,23 @@
+{
+  "AdultClassificationScore": 0.0017866709968075156,
+  "IsImageAdultClassified": false,
+  "RacyClassificationScore": 0.99097907543182373,
+  "IsImageRacyClassified": true,
+  "AdvancedInfo": [
+    {
+      "Key": "ImageDownloadTimeInMs",
+      "Value": "155"
+    },
+    {
+      "Key": "ImageSizeInBytes",
+      "Value": "1242855"
+    }
+  ],
+  "Result": true,
+  "Status": {
+    "Code": 3000,
+    "Description": "OK",
+    "Exception": null
+  },
+  "TrackingId": "WU_ibiza_b86f2b01-1d0d-43c5-b2dd-ee30b1109dc1_ContentModerator.S0_ebc0dc99-231d-48e8-b4c1-0482cb8b64fd"
+}

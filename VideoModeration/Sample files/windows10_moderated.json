@@ -1,0 +1,399 @@
+{
+  "version": 2,
+  "timescale": 90000,
+  "offset": 0,
+  "framerate": 23.976,
+  "width": 1280,
+  "height": 720,
+  "totalDuration": 2702699,
+  "fragments": [
+    {
+      "start": 0,
+      "duration": 22523
+    },
+    {
+      "start": 22523,
+      "duration": 48798,
+      "interval": 48798,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00052,
+            "racyScore": 0.09097,
+            "index": 6,
+            "timestamp": 22523,
+            "shotIndex": 0
+          }
+        ]
+      ]
+    },
+    {
+      "start": 71321,
+      "duration": 108859,
+      "interval": 108859,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00003,
+            "racyScore": 0.00864,
+            "index": 19,
+            "timestamp": 71321,
+            "shotIndex": 0
+          }
+        ]
+      ]
+    },
+    {
+      "start": 180180,
+      "duration": 75075,
+      "interval": 75075,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00004,
+            "racyScore": 0.21071,
+            "index": 48,
+            "timestamp": 180180,
+            "shotIndex": 1
+          }
+        ]
+      ]
+    },
+    {
+      "start": 255255,
+      "duration": 161411,
+      "interval": 161411,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00024,
+            "racyScore": 0.39801,
+            "index": 68,
+            "timestamp": 255255,
+            "shotIndex": 1
+          }
+        ]
+      ]
+    },
+    {
+      "start": 416666,
+      "duration": 150150,
+      "interval": 150150,
+      "events": [
+        [
+          {
+            "reviewRecommended": true,
+            "adultScore": 0.00736,
+            "racyScore": 0.90904,
+            "index": 111,
+            "timestamp": 416666,
+            "shotIndex": 2
+          }
+        ]
+      ]
+    },
+    {
+      "start": 566816,
+      "duration": 165165,
+      "interval": 165165,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00025,
+            "racyScore": 0.27146,
+            "index": 151,
+            "timestamp": 566816,
+            "shotIndex": 3
+          }
+        ]
+      ]
+    },
+    {
+      "start": 731981,
+      "duration": 93844,
+      "interval": 93844,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00701,
+            "racyScore": 0.62695,
+            "index": 195,
+            "timestamp": 731981,
+            "shotIndex": 4
+          }
+        ]
+      ]
+    },
+    {
+      "start": 825825,
+      "duration": 75075,
+      "interval": 75075,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00003,
+            "racyScore": 0.06435,
+            "index": 220,
+            "timestamp": 825825,
+            "shotIndex": 4
+          }
+        ]
+      ]
+    },
+    {
+      "start": 900900,
+      "duration": 176426,
+      "interval": 176426,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00000,
+            "racyScore": 0.01353,
+            "index": 240,
+            "timestamp": 900900,
+            "shotIndex": 5
+          }
+        ]
+      ]
+    },
+    {
+      "start": 1077326,
+      "duration": 108859,
+      "interval": 108859,
+      "events": [
+        [
+          {
+            "reviewRecommended": true,
+            "adultScore": 0.00050,
+            "racyScore": 0.83290,
+            "index": 287,
+            "timestamp": 1077326,
+            "shotIndex": 6
+          }
+        ]
+      ]
+    },
+    {
+      "start": 1186185,
+      "duration": 165165,
+      "interval": 165165,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.01034,
+            "racyScore": 0.23238,
+            "index": 316,
+            "timestamp": 1186185,
+            "shotIndex": 6
+          }
+        ]
+      ]
+    },
+    {
+      "start": 1351350,
+      "duration": 86336,
+      "interval": 86336,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00000,
+            "racyScore": 0.09798,
+            "index": 360,
+            "timestamp": 1351350,
+            "shotIndex": 7
+          }
+        ]
+      ]
+    },
+    {
+      "start": 1437686,
+      "duration": 112612,
+      "interval": 112612,
+      "events": [
+        [
+          {
+            "reviewRecommended": true,
+            "adultScore": 0.00011,
+            "racyScore": 0.85377,
+            "index": 383,
+            "timestamp": 1437686,
+            "shotIndex": 7
+          }
+        ]
+      ]
+    },
+    {
+      "start": 1550298,
+      "duration": 37538,
+      "interval": 37538,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00007,
+            "racyScore": 0.03143,
+            "index": 413,
+            "timestamp": 1550298,
+            "shotIndex": 8
+          }
+        ]
+      ]
+    },
+    {
+      "start": 1587836,
+      "duration": 120120,
+      "interval": 120120,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00037,
+            "racyScore": 0.27886,
+            "index": 423,
+            "timestamp": 1587836,
+            "shotIndex": 8
+          }
+        ]
+      ]
+    },
+    {
+      "start": 1707956,
+      "duration": 63814,
+      "interval": 63814,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.02182,
+            "racyScore": 0.32720,
+            "index": 455,
+            "timestamp": 1707956,
+            "shotIndex": 9
+          }
+        ]
+      ]
+    },
+    {
+      "start": 1771770,
+      "duration": 67567,
+      "interval": 67567,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00008,
+            "racyScore": 0.11520,
+            "index": 472,
+            "timestamp": 1771770,
+            "shotIndex": 9
+          }
+        ]
+      ]
+    },
+    {
+      "start": 1839337,
+      "duration": 165166,
+      "interval": 165166,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00008,
+            "racyScore": 0.12415,
+            "index": 490,
+            "timestamp": 1839337,
+            "shotIndex": 10
+          }
+        ]
+      ]
+    },
+    {
+      "start": 2004503,
+      "duration": 240240,
+      "interval": 240240,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00013,
+            "racyScore": 0.17193,
+            "index": 534,
+            "timestamp": 2004503,
+            "shotIndex": 11
+          }
+        ]
+      ]
+    },
+    {
+      "start": 2244743,
+      "duration": 138888,
+      "interval": 138888,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00004,
+            "racyScore": 0.33953,
+            "index": 598,
+            "timestamp": 2244743,
+            "shotIndex": 12
+          }
+        ]
+      ]
+    },
+    {
+      "start": 2383631,
+      "duration": 138889,
+      "interval": 138889,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00000,
+            "racyScore": 0.00236,
+            "index": 635,
+            "timestamp": 2383631,
+            "shotIndex": 13
+          }
+        ]
+      ]
+    },
+    {
+      "start": 2522520,
+      "duration": 240240,
+      "interval": 120120,
+      "events": [
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00004,
+            "racyScore": 0.01452,
+            "index": 672,
+            "timestamp": 2522520,
+            "shotIndex": 13
+          }
+        ],
+        [
+          {
+            "reviewRecommended": false,
+            "adultScore": 0.00000,
+            "racyScore": 0.01091,
+            "index": 704,
+            "timestamp": 2642640,
+            "shotIndex": 14
+          }
+        ]
+      ]
+    }
+  ]
+}

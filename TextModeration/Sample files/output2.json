@@ -1,0 +1,53 @@
+﻿{
+  "OriginalText": "Questions? email me at somename@microsoft.com or call me at 1-800-333-4567",
+  "NormalizedText": "Questions? email me at some name@ Microsoft. com or call me at 1- 800- 333- 4567",
+  "AutoCorrectedText": "Questions? email me at some name@ Microsoft. com or call me at 1- 800- 333- 4567",
+  "Misrepresentation": null,
+  "PII": {
+    "Email": [
+      {
+        "Detected": "somename@microsoft.com",
+        "SubType": "Regular",
+        "Text": "somename@microsoft.com",
+        "Index": 23
+      },
+      {
+        "Detected": "me@somename@microsoft.com",
+        "SubType": "Suspected",
+        "Text": "me at somename@microsoft.com",
+        "Index": 17
+      }
+    ],
+    "IPA": [ ],
+    "Phone": [
+      {
+        "CountryCode": "US",
+        "Text": "1-800-333-4567",
+        "Index": 60
+      }
+    ],
+    "Address": [ ],
+    "SSN": [ ]
+  },
+  "Classification": {
+    "ReviewRecommended": false,
+    "Category1": { "Score": 0.0065943244844675064 },
+    "Category2": { "Score": 0.14019052684307098 },
+    "Category3": { "Score": 0.0043589477427303791 }
+  },
+  "Language": "eng",
+  "Terms": [
+    {
+      "Index": 32,
+      "OriginalIndex": 32,
+      "ListId": 233,
+      "Term": "Microsoft"
+    }
+  ],
+  "Status": {
+    "Code": 3000,
+    "Description": "OK",
+    "Exception": null
+  },
+  "TrackingId": "bf162866-73e7-49f7-8a89-aa616a542f32"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "Content": "https://moderatorsampleimages.blob.core.windows.net/samples/sample1.jpg",
+    "ContentId": "1",
+    "Metadata": [
+      {
+        "Key": "a",
+        "Value": "false"
+      },
+      {
+        "Key": "adultScore",
+        "Value": "0.1211889"
+      },
+      {
+        "Key": "r",
+        "Value": "true"
+      },
+      {
+        "Key": "racyScore",
+        "Value": "0.8353504"
+      }
+    ],
+    "Type": "Image",
+    "CallbackEndpoint": ""
+  },
+  {
+    "Content": "https://moderatorsampleimages.blob.core.windows.net/samples/sample2.jpg",
+    "ContentId": "2",
+    "Metadata": [
+      {
+        "Key": "a",
+        "Value": "false"
+      },
+      {
+        "Key": "adultScore",
+        "Value": "0.02185438"
+      },
+      {
+        "Key": "r",
+        "Value": "false"
+      },
+      {
+        "Key": "racyScore",
+        "Value": "0.0457914"
+      }
+    ],
+    "Type": "Image",
+    "CallbackEndpoint": ""
+  }
+]

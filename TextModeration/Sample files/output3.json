@@ -1,0 +1,34 @@
+﻿{
+  "OriginalText": "You are so full of crap!",
+  "NormalizedText": "You are so full of crap!",
+  "AutoCorrectedText": "You are so full of crap!",
+  "Misrepresentation": null,
+  "PII": {
+    "Email": [ ],
+    "IPA": [ ],
+    "Phone": [ ],
+    "Address": [ ],
+    "SSN": [ ]
+  },
+  "Classification": {
+    "ReviewRecommended": true,
+    "Category1": { "Score": 0.033572643995285034 },
+    "Category2": { "Score": 0.30306604504585266 },
+    "Category3": { "Score": 0.98799997568130493 }
+  },
+  "Language": "eng",
+  "Terms": [
+    {
+      "Index": 19,
+      "OriginalIndex": 19,
+      "ListId": 0,
+      "Term": "crap"
+    }
+  ],
+  "Status": {
+    "Code": 3000,
+    "Description": "OK",
+    "Exception": null
+  },
+  "TrackingId": "9db0baf8-1bdf-43a7-b0f4-1ced8c9ba49f"
+}

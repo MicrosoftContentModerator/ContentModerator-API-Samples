@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageModeration", "ImageModeration\ImageModeration.csproj", "{7896CAB1-93BD-4E16-8F9D-191E9173DFA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextModeration", "TextModeration\TextModeration.csproj", "{5AE4F61C-42B2-4C32-AA8B-D9E3568B8A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoModeration", "VideoModeration\VideoModeration.csproj", "{68A348A2-36D1-4307-9848-300D151CCE1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageReviews", "ImageReviews\ImageReviews.csproj", "{31AF3A07-52F5-4CFB-B191-9B57F045C185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageJob", "ImageJob\ImageJob.csproj", "{9EF476CF-A8E7-4F7B-8E4C-FDD08E27C917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7896CAB1-93BD-4E16-8F9D-191E9173DFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7896CAB1-93BD-4E16-8F9D-191E9173DFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7896CAB1-93BD-4E16-8F9D-191E9173DFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7896CAB1-93BD-4E16-8F9D-191E9173DFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE4F61C-42B2-4C32-AA8B-D9E3568B8A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE4F61C-42B2-4C32-AA8B-D9E3568B8A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE4F61C-42B2-4C32-AA8B-D9E3568B8A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE4F61C-42B2-4C32-AA8B-D9E3568B8A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A348A2-36D1-4307-9848-300D151CCE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A348A2-36D1-4307-9848-300D151CCE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A348A2-36D1-4307-9848-300D151CCE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A348A2-36D1-4307-9848-300D151CCE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AF3A07-52F5-4CFB-B191-9B57F045C185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AF3A07-52F5-4CFB-B191-9B57F045C185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AF3A07-52F5-4CFB-B191-9B57F045C185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AF3A07-52F5-4CFB-B191-9B57F045C185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF476CF-A8E7-4F7B-8E4C-FDD08E27C917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF476CF-A8E7-4F7B-8E4C-FDD08E27C917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF476CF-A8E7-4F7B-8E4C-FDD08E27C917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF476CF-A8E7-4F7B-8E4C-FDD08E27C917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\TransientFaultHandling.Core.5.1.1209.1\lib\NET4
+	EndGlobalSection
+EndGlobal
