@@ -9,6 +9,6 @@ namespace ImageModeration
     class Secrets
     {
         //Content Moderator Key 
-        public const string CONTENTMODERATOR_APIKEY = "YOUR API KEY";
+        public const string CONTENTMODERATOR_APIKEY = Environment.GetEnvironmentVariable("CONTENT_MODERATOR_SUBSCRIPTION_KEY");
     }
 }
